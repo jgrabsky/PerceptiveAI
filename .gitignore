@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# third-party
+Content/FirstPerson/*
+Content/Weapons/*
+Content/Geometry/*
+Content/SCK_Casual01/*
+SCK_Casual01.png
+Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SM_KA_Val_Mag_Loaded_X.uasset
